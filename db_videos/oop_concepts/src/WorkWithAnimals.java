@@ -22,7 +22,7 @@ public class WorkWithAnimals{
 		System.out.println("randNum after method call: " + randNum);
 		
 		// Objects are passed by reference to the original object
-		// Changes in methods do affect the object
+		// Changes in methods do effect the object
 		
 		changeObjectName(fido);
 		
@@ -78,12 +78,19 @@ public class WorkWithAnimals{
 		
 		// Creating a Giraffe from an abstract class
 		
-		// Giraffe giraffe = new Giraffe();
+		Giraffe giraffe = new Giraffe();
 		
-		// giraffe.setName("Frank");
+		giraffe.setName("Frank");
 		
-		// System.out.println(giraffe.getName());
+		System.out.println("Giraffe's name is " + giraffe.getName());
 		
+		// Make a Monkey
+		Monkey monkey = new Monkey();
+		
+		monkey.setName("Monkey");
+		
+		System.out.println("Monkey's name is " + monkey.getName());
+	
 	}
 	
 	// Any methods that are in a class and not tied to an object must

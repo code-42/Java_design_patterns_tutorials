@@ -37,7 +37,7 @@ public class Dog extends Animal{
 		
 		// Sets bark for all Dog objects by default
 		
-		setSound("Bark");
+		setSound("Bark"); // change to Bow-wow
 		
 	}
 	
