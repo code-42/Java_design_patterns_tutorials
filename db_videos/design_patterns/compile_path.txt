@@ -1,0 +1,1 @@
+code42:~/workspace/design_patterns_tutorials/db_videos/design_patterns/observer_pattern/classes (master) $ javac -sourcepath ../src/ -d . ../src/*.*
