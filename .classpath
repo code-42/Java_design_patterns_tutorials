@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="db_videos/design_patterns/observer_pattern/src"/>
+	<classpathentry kind="src" path="db_videos/design_patterns/strategy_pattern/src"/>
+	<classpathentry kind="src" path="FactoryPattern/src"/>
+	<classpathentry kind="output" path="db_videos/.bin"/>
+</classpath>
